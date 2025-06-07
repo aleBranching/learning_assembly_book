@@ -3,6 +3,7 @@ this is a cheat sheet for me. Quick and dirty and not very readable by others
 %rcx : comparison, value used in loopq
 %rax : Accumalator and where you put the exit code?
 %rdx : remainder?
+%rip : memory address of next instruction to execute pointer
 
 
 
